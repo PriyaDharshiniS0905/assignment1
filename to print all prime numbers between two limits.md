@@ -1,5 +1,6 @@
 ## Write a c program to print all prime numbers between two limits.
 ## PROGRAM
+~~~
 #include <stdio.h>
 
 int main() {
@@ -27,6 +28,7 @@ int main() {
 
     return 0;
 }
+~~~
 ## OUTPUT
 <img width="822" height="184" alt="image" src="https://github.com/user-attachments/assets/f9118a61-56c6-4c10-b6ff-ad7253c11a91" />
 ## RESULT 
